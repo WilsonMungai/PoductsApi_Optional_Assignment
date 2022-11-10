@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MuguthiWilsonMungai_NyarkoBetrand_Optional_Assignment</string>
+    <string name="product_rating" >Rating: %1$s</string>
+    <string name="product_title">Title: %1$s</string>
+    <string name="product_brand">Product: %1$s</string>
+    <string name="product_description">Description: %1$s</string>
+</resources>
